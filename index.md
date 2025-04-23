@@ -6,6 +6,8 @@ layout: default
 
 ### [Steam Review Template](https://bigflubba.github.io/steam-review-template)
 
+##### [Source Code](https://github.com/bigflubba/steam-review-template/)
+
 > This is a tool to simplify the creation of copy-pasta reviews that are somewhat popular on Steam.
 > 
 > It will generate with a line on the bottom that gives me credit. I would appreciate it if you left it there, but you don't have to :)

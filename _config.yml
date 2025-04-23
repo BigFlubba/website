@@ -1,4 +1,6 @@
+theme: jekyll-theme-cayman
 title: Big Flubba's Experiments
 description: I have no idea what I am doing.
+plugins:
+  - jekyll-remote-theme
 show_downloads: true
-remote_theme: pages-themes/cayman@v0.2.0

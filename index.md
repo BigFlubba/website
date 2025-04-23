@@ -24,7 +24,7 @@ Example:
 ☐ Decent!
 ☐ Bad!
 ☐ Bus Simulator 16 Ultra Low settings!
-☐ 1$ Budget game!
+☐ $1 Budget game!
 
 ---{ Audio }---
 ☑ Eargasm!
